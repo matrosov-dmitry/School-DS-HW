@@ -1,0 +1,57 @@
+'data.id': 'Id_объекта',
+'data.developer.devId': 'Id_застройщика',
+'data.developer.devShortCleanNm': 'Краткое наименование организации',
+'data.developer.devFullCleanNm': 'Полное наименование организации',
+'data.developer.problObjCnt': 'Количество проблемных домов у застройщика',
+'data.developer.buildObjCnt': 'Количество строящихся домов у застройщика',
+'data.developer.regRegionDesc': 'Регион строительства',
+'data.developer.devPhoneNum': 'Контактный телефон',
+'data.developer.devSite': 'Сайт',
+'data.developer.devEmail': 'E-mail',
+'data.developer.devInn': 'ИНН',
+'data.developer.devOgrn': 'ОГРН',
+'data.developer.devKpp': 'КПП',
+'data.developer.devLegalAddr': 'Юридический адрес'
+'data.developer.devFactAddr':'Фактический адрес' 
+'data.developer.devEmplMainFullNm': 'Руководитель компании'
+'data.region': 'Регион строительства',
+'data.address': 'Адрес строительства',
+'data.objElemLivingCnt': 'Количество квартир',
+'data.objReady100PercDt': 'Ввод в эксплуатацию',
+'data.wallMaterialShortDesc': 'Материал стен',
+'data.objLkFinishTypeDesc': 'Тип отделки',
+'data.objLkFreePlanDesc': 'Свободная планировка',
+'data.objElemParkingCnt': 'Количество мест в паркинге',
+'data.objSquareLiving': 'Жилая площадь, м²',
+'data.objLkLatitude': 'Широта',
+'data.objLkLongitude': 'Долгота',
+'data.objLkClassDesc': 'Тип недвижимости',
+'data.objFloorCnt': 'Количество этажей',
+'data.objFlatCnt': 'Количество квартир',
+'data.objFlatSq': 'Жилая площадь, м²',
+'data.objNonlivElemCnt': 'Количество нежилых помещений',
+'data.objStatus': 'Статус строительства',
+'data.objTransferPlanDt': 'Выдача ключей',
+'data.objInfrstrBicycleLaneFlg': 'Велосипедные дорожки',
+'data.objInfrstrPlaygrndCnt': 'Количество детских площадок',
+'data.objInfrstrSportGroundCnt': 'Количество спортивных площадок',
+'data.objInfrstrTrashAreaCnt': 'Количество площадок для сбора мусора',
+'data.objInfrstrObjPrkngCnt': 0,
+'data.objInfrstrNotObjPrkngCnt': 0,
+'data.objInfrstrRampFlg': 'Наличие пандуса',
+'data.objInfrstrCurbLoweringFlg': 'Наличие понижающих площадок',
+'data.objElevatorWheelchairCnt': 'Количество инвалидных подъемников',
+'data.objElevatorPassengerCnt': 'Количество пассажирских лифтов',
+'data.objElevatorCargoCnt': 'Количество грузовых лифтов',
+'data.soldOutPerc': 'Распроданность квартир',
+'data.objPriceAvg': 'Средняя цена за 1 м²',
+'data.nonlivFirstFloor': 'Первый этаж нежилой',
+'data.objEnergyEffShortDesc': 'Класс энергоэффективности здания',
+'data.infrastructureIndexValue': 'Индекс доступности инфраструктуры',
+'data.quartography.objLivElem1KCnt' : 'Количество 1-комнатных квартир'
+'data.quartography.objLivElem2KCnt' : 'Количество 2-комнатных квартир'
+'data.quartography.objLivElem3KCnt' : 'Количество 3-комнатных квартир'
+'data.quartography.objLivElem4KCnt' : 'Количество 4-комнатных квартир'
+'data.quartography.objLivElemCnt' : 'Количество квартир'
+'data.quartography.objLivElemEntrCnt' : 'Количество подъездов'
+'data.quartography.objLivElemEntrFloorAvg' : 'Среднее количество квартир на этаже'
