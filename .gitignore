@@ -1,4 +1,4 @@
-.vscode/*
+**/.vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
@@ -16,4 +16,8 @@
 
 .DS_store
 
+*.log
+.vscode
+
 useful_links.md
+
